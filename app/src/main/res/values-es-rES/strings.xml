@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TerraPrevis</string>
+    <string name="screen_title">Traductor Orbital (IA)</string>
+    <string name="screen_subtitle">La IA traduce datos complejos de satélites en acciones simples.</string>
+    <string name="section_demo">DEMOSTRACIÓN DE TRADUCCIÓN EN TIEMPO REAL</string>
+    <string name="section_alerts">ALERTAS ACTIVAS RECIENTES</string>
+    <string name="telemetry_label">TELEMETRÍA BRUTA: </string>
+    <string name="ai_translation_label">TRADUCCIÓN DE IA:</string>
+</resources>
